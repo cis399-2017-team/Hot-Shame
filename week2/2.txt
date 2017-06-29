@@ -1,0 +1,3 @@
+From the EC2 interface, select the checkbox next to the instance you want the
+information from. After that, the IPv4 Public IP can be found in the description
+tab.

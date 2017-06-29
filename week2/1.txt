@@ -1,0 +1,9 @@
+Instance 1:
+
+  Instance ID: i-002946caff8c02856
+  Private IP: 10.0.4.70
+
+Instance 2:
+
+  Instance ID: i-080e5ff16325c2e41
+  Private IP:  

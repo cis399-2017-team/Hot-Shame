@@ -10,5 +10,5 @@ Instance 2:
 
 Instance 3:
 
-  Instance ID: 
-  Private IP:   
+  Instance ID: i-062ca19f7fdc64ecc  
+  Private IP: 10.0.4.8

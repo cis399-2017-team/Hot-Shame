@@ -1,0 +1,7 @@
+[0;32minfo: Caching catalog for ip-10-0-4-70.us-west-2.compute.internal[0m
+[0;32minfo: Applying configuration version '1498956409'[0m
+[0;36mnotice: /Stage[main]/Sshd/File[sshdconfig]/ensure: defined content as '{md5}bbcdf7b77777d40996e287495bb96e47'[0m
+[0;32minfo: /Stage[main]/Sshd/File[sshdconfig]: Scheduling refresh of Service[sshd][0m
+[0;32minfo: /Stage[main]/Sshd/File[sshdconfig]: Scheduling refresh of Service[sshd][0m
+[0;36mnotice: /Stage[main]/Sshd/Service[sshd]: Triggered 'refresh' from 2 events[0m
+[0;36mnotice: Finished catalog run in 0.56 seconds[0m

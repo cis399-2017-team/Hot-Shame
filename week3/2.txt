@@ -1,0 +1,4 @@
+[0;32minfo: Caching catalog for ip-10-0-4-70.us-west-2.compute.internal[0m
+[0;32minfo: Applying configuration version '1498956409'[0m
+[0;36mnotice: /Stage[main]/Sshd/Service[sshd]/ensure: ensure changed 'stopped' to 'running'[0m
+[0;36mnotice: Finished catalog run in 0.85 seconds[0m

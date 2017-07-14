@@ -1,2 +1,2 @@
-Hot-Shame-2: ec2-34-210-0-91.us-west-2.compute.amazonaws.com
+Hot-Shame-2-NEW: ec2-35-164-154-53.us-west-2.compute.amazonaws.com
 Hot-Shame-3: ec2-35-162-107-173.us-west-2.compute.amazonaws.com

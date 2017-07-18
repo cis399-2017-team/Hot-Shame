@@ -1,0 +1,4 @@
+10.0.4.234 - - [16/Jul/2017:03:42:50 +0000] "GET /index.html HTTP/1.1" 200 14 "-" "ELB-HealthChecker/1.0"
+
+10.0.4.53 - - [16/Jul/2017:03:35:24 +0000] "GET /index.html HTTP/1.1" 200 14 "-" "ELB-HealthChecker/1.0"
+

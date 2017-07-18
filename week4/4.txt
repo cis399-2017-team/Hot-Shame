@@ -1,0 +1,1 @@
+After stopping both httpd services, the load balancer returns a 503 error.  With only 1 of the httpd services stopped, the page loads fine.
